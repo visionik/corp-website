@@ -1,0 +1,171 @@
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Cambiar Color Palette */
+  --warm-charcoal: #3d3935;
+  --warm-cream: #f8f6f3;
+  --deep-amber: #c17f3e;
+  --midnight-navy: #1a2332;
+  --muted-gold: #b8a88a;
+  --text-gray: #6b6560;
+  --pure-white: #ffffff;
+
+  /* Typography */
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Base font size */
+  --font-size: 16px;
+
+  /* Design system mappings */
+  --background: var(--warm-cream);
+  --foreground: var(--warm-charcoal);
+  --card: var(--pure-white);
+  --card-foreground: var(--warm-charcoal);
+  --primary: var(--warm-charcoal);
+  --primary-foreground: var(--warm-cream);
+  --secondary: var(--deep-amber);
+  --secondary-foreground: var(--pure-white);
+  --accent: var(--deep-amber);
+  --accent-foreground: var(--pure-white);
+  --muted: var(--muted-gold);
+  --muted-foreground: var(--text-gray);
+  --border: rgba(61, 57, 53, 0.1);
+  --input: transparent;
+  --input-background: var(--pure-white);
+  --ring: var(--deep-amber);
+
+  --radius: 4px;
+}
+
+@theme inline {
+  --color-warm-charcoal: var(--warm-charcoal);
+  --color-warm-cream: var(--warm-cream);
+  --color-deep-amber: var(--deep-amber);
+  --color-midnight-navy: var(--midnight-navy);
+  --color-muted-gold: var(--muted-gold);
+  --color-text-gray: var(--text-gray);
+  --color-pure-white: var(--pure-white);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-input-background: var(--input-background);
+  --color-ring: var(--ring);
+
+  --radius-sm: 3px;
+  --radius-md: var(--radius);
+  --radius-lg: var(--radius);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-warm-cream text-warm-charcoal;
+    font-family: var(--font-body);
+    font-size: 16.8px;
+    font-weight: 400;
+    line-height: 1.6;
+    letter-spacing: 0.3px;
+  }
+
+  html {
+    font-size: var(--font-size);
+  }
+
+  /* Typography Hierarchy - Cambiar Spec */
+  h1 {
+    font-family: var(--font-display);
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -1px;
+    color: var(--warm-charcoal);
+  }
+
+  h2 {
+    font-family: var(--font-display);
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: -0.5px;
+    color: var(--warm-charcoal);
+  }
+
+  h3 {
+    font-family: var(--font-display);
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: 0;
+    color: var(--warm-charcoal);
+  }
+
+  h4 {
+    font-family: var(--font-body);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: 0.5px;
+    color: var(--warm-charcoal);
+  }
+
+  p {
+    font-family: var(--font-body);
+    font-size: 16.8px;
+    font-weight: 400;
+    line-height: 1.6;
+    letter-spacing: 0.3px;
+    color: var(--text-gray);
+  }
+
+  a {
+    color: var(--deep-amber);
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  a:hover {
+    color: var(--warm-charcoal);
+    border-bottom: 1px solid var(--warm-charcoal);
+  }
+
+  label {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+
+  button {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
+
+  input,
+  textarea,
+  select {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+}
