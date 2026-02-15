@@ -338,8 +338,8 @@ Proprietary – All rights reserved by Cambiar
 
 For inquiries about Cambiar:
 
-- **Website**: [cambiar.com](https://cambiar.com) (when deployed)
-- **Email**: hello@cambiar.com
+- **Website**: [cambiar.ai](https://cambiar.ai) (when deployed)
+- **Email**: hello@cambiar.ai
 - **Location**: London, United Kingdom
 
 ---

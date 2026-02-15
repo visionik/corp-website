@@ -201,10 +201,10 @@ export function Contact() {
                     <div>
                       <h4 className="text-warm-charcoal mb-1 text-[16px]">Email</h4>
                       <a
-                        href="mailto:jason@cambiar.com"
+                        href="mailto:jason@cambiar.ai"
                         className="text-deep-amber hover:text-warm-charcoal transition-colors text-[15px]"
                       >
-                        jason@cambiar.com
+                        jason@cambiar.ai
                       </a>
                     </div>
                   </div>
@@ -230,7 +230,7 @@ export function Contact() {
                     </div>
                     <div>
                       <h4 className="text-warm-charcoal mb-1 text-[16px]">Website</h4>
-                      <p className="text-text-gray text-[15px]">cambiar.com</p>
+                      <p className="text-text-gray text-[15px]">cambiar.ai</p>
                     </div>
                   </div>
 

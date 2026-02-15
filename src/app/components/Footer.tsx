@@ -64,12 +64,12 @@ export function Footer() {
           {/* Contact Info */}
           <div className="flex flex-col items-start md:items-end gap-2">
             <a
-              href="mailto:jason@cambiar.com"
+              href="mailto:jason@cambiar.ai"
               className="font-['Inter'] text-[15px] text-muted-gold hover:text-warm-cream transition-colors"
             >
-              jason@cambiar.com
+              jason@cambiar.ai
             </a>
-            <div className="font-['Inter'] text-[15px] text-muted-gold">cambiar.com</div>
+            <div className="font-['Inter'] text-[15px] text-muted-gold">cambiar.ai</div>
           </div>
         </div>
 

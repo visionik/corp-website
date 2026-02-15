@@ -66,7 +66,7 @@ After deployment, you can add a custom domain:
 
 1. Go to your Cloudflare Pages project
 2. Click "Custom domains"
-3. Add your domain (e.g., `cambiar.com`)
+3. Add your domain (e.g., `cambiar.ai`)
 4. Follow the DNS configuration instructions
 5. SSL/TLS certificates are automatically provisioned
 
