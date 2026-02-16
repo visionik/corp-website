@@ -163,7 +163,7 @@ export function Home() {
             </div>
 
             <div className="bg-white rounded-[4px] p-8 shadow-sm hover:-translate-y-1 hover:shadow-lg transition-all duration-200">
-              <h3 className="mb-3">Businesses small and large</h3>
+              <h3 className="mb-3">Businesses small &amp; large</h3>
               <p className="text-text-gray text-[15px] leading-relaxed">
                 From founder-led teams to established enterprises, we help you prioritize high-leverage AI initiatives, execute quickly, and build operational systems that keep compounding.
               </p>
