@@ -103,7 +103,7 @@ export function Perspectives() {
             >
               <div className="flex items-start justify-between mb-4">
                 <h3 className="text-warm-charcoal group-hover:text-deep-amber transition-colors">
-                  VisionIK Blog
+                  Visionik Blog
                 </h3>
                 <ExternalLink className="text-deep-amber flex-shrink-0 ml-2" size={20} />
               </div>

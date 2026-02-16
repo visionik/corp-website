@@ -11,4 +11,5 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Updated Home page segment copy from "Five interconnected segments" to "Six interconnected segments."
 - Updated references from `cambiar.com` to `cambiar.ai` in docs and site content.
 - Changed "Businesses small and large" to "Businesses small & large" in Who We Serve section.
+- Fixed capitalization of "VisionIK Blog" to "Visionik Blog" on Perspectives page.
 
