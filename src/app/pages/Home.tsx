@@ -123,7 +123,7 @@ export function Home() {
         <div className="max-w-[1200px] mx-auto">
           <h2 className="text-center mb-4">Who We Serve</h2>
           <p className="font-['Inter'] text-[18px] text-text-gray text-center mb-16">
-            Five interconnected segments. One unified approach.
+            Six interconnected segments. One unified approach.
           </p>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -159,6 +159,13 @@ export function Home() {
               <h3 className="mb-3">Non-Profit & Impact</h3>
               <p className="text-text-gray text-[15px] leading-relaxed">
                 Selected engagements for organizations doing work that matters. Not charity — partnership on missions we believe in.
+              </p>
+            </div>
+
+            <div className="bg-white rounded-[4px] p-8 shadow-sm hover:-translate-y-1 hover:shadow-lg transition-all duration-200">
+              <h3 className="mb-3">Businesses small and large</h3>
+              <p className="text-text-gray text-[15px] leading-relaxed">
+                From founder-led teams to established enterprises, we help you prioritize high-leverage AI initiatives, execute quickly, and build operational systems that keep compounding.
               </p>
             </div>
           </div>
