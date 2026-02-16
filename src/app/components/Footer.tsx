@@ -76,7 +76,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-muted-gold/20 pt-8">
           <p className="font-['Inter'] text-[14px] text-muted-gold text-center">
-            © {currentYear} Cambiar Advisory, LLC + Cambiar Studio, LLC. All rights reserved.
+            © {currentYear} Cambiar, LLC + Cambiar Ventures, LP. All rights reserved.
           </p>
         </div>
       </div>
