@@ -13,4 +13,5 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Changed "Businesses small and large" to "Businesses small & large" in Who We Serve section.
 - Fixed capitalization of "VisionIK Blog" to "Visionik Blog" on Perspectives page.
 - Added openclaw.ai maintainer credit to Jonathan Taylor's bio on Home page.
+- Updated site title to "Cambiar: AI Advising, AI Outsourcing & AI Incubating".
 
