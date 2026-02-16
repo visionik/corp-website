@@ -8,6 +8,11 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Added a sixth "Who We Serve" card on the Home page: "Businesses small and large."
 
 ### Changed
+- Refactored Perspectives page to use live RSS feeds instead of static mock data:
+  - Featured Insights and Recent Posts now pull from actual blog RSS feeds
+  - Added loading spinner and error handling for feed fetching
+  - Blog sources section now dynamically renders from blog feeds configuration
+  - Stay Updated section uses dynamic blog feed links
 - Updated hero tagline from "Advisory at the speed of light" to "AI at the speed of light".
 - Rebranded "Studio" to "Ventures" throughout the site:
   - "The Studio" changed to "The Strategy"

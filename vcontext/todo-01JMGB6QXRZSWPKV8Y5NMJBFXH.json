@@ -1,0 +1,39 @@
+{
+  "vContextInfo": {
+    "version": "0.4"
+  },
+  "todoList": {
+    "items": [
+      {
+        "id": "t1",
+        "title": "Create blog feeds configuration",
+        "status": "completed",
+        "narrative": {
+          "Background": "Perspectives page needs dynamic RSS feed sources",
+          "Problem": "Blog URLs were hardcoded throughout the page"
+        },
+        "priority": "high"
+      },
+      {
+        "id": "t2",
+        "title": "Create RSS feed hook",
+        "status": "completed",
+        "narrative": {
+          "Background": "Need to fetch and parse RSS feeds from employee blogs",
+          "Problem": "No existing mechanism to fetch external RSS data"
+        },
+        "priority": "high"
+      },
+      {
+        "id": "t3",
+        "title": "Update Perspectives page",
+        "status": "completed",
+        "narrative": {
+          "Background": "Page had placeholder content with mock data",
+          "Problem": "Featured Insights needs 6 posts (3 per blog), Recent Posts needs 30 time-sorted posts"
+        },
+        "priority": "high"
+      }
+    ]
+  }
+}
