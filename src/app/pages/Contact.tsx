@@ -266,7 +266,7 @@ export function Contact() {
           <h2 className="text-warm-cream mb-6">Ready to Transform?</h2>
           <p className="text-warm-cream text-[17px] leading-relaxed mb-8">
             Whether you need transformation consulting, managed development services, or want to explore co-investment 
-            opportunities through our studio — let's start the conversation.
+            opportunities through our ventures — let's start the conversation.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -279,7 +279,7 @@ export function Contact() {
               href="/studio"
               className="bg-transparent border-[1.5px] border-warm-cream text-warm-cream px-7 py-3.5 rounded-[3px] font-['Inter'] font-semibold text-[15px] tracking-[1px] uppercase hover:bg-warm-cream hover:text-warm-charcoal transition-all duration-200"
             >
-              Explore the Studio
+              Explore Ventures
             </a>
           </div>
         </div>

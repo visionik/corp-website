@@ -33,7 +33,7 @@ The website includes six main pages plus a 404 page:
 
 1. **Home** (`/`)
    - Hero section with iconic "C" lettermark
-   - Overview of Cambiar's dual model (Advisory + Studio)
+   - Overview of Cambiar's dual model (Advisory + Ventures)
    - SCIFLI framework introduction
    - Call-to-action sections
 
@@ -49,8 +49,8 @@ The website includes six main pages plus a 404 page:
    - Service offerings and outcomes
    - Case study highlights
 
-4. **Studio** (`/studio`)
-   - Venture studio model and thesis
+4. **Ventures** (`/studio`)
+   - Venture model and thesis
    - Co-investment approach
    - Portfolio focus areas
    - Partnership benefits
@@ -261,7 +261,7 @@ The site features outcome-focused, why-driven messaging:
 ### Key Messaging
 
 - **Advisory**: "Transform complexity into competitive advantage"
-- **Studio**: "Co-invest in AI-native ventures that matter"
+- **Ventures**: "Co-invest in AI-native ventures that matter"
 - **SCIFLI Framework**: Strategic, Creative, Integrative, Fast, Lasting, Impactful
 - **Founder Expertise**: Deep technical and strategic backgrounds in AI and transformation
 
@@ -320,7 +320,7 @@ Potential additions for future releases:
 - [ ] Multi-language support
 - [ ] Dark mode toggle
 - [ ] Interactive SCIFLI framework visualization
-- [ ] Portfolio company showcase for Studio
+- [ ] Portfolio company showcase for Ventures
 
 ## Security
 

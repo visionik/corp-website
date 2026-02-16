@@ -4,33 +4,33 @@ export function Studio() {
   return (
     <div className="min-h-screen pt-24">
       <PageMeta
-        title="Cambiar Studio — Venture Building & Co-Investment"
-        description="We don't just advise on transformation — we build alongside you. Portfolio ventures, co-investment, and studio partnerships."
+        title="Cambiar Ventures — Venture Building & Co-Investment"
+        description="We don't just advise on transformation — we build alongside you. Portfolio ventures, co-investment, and venture partnerships."
       />
 
       {/* Hero */}
       <section className="bg-warm-cream py-20 px-6">
         <div className="max-w-[1200px] mx-auto text-center">
-          <h1 className="mb-6">Cambiar Studio</h1>
+          <h1 className="mb-6">Cambiar Ventures</h1>
           <p className="font-['Inter'] text-[19px] text-text-gray max-w-3xl mx-auto leading-relaxed">
             We don't just advise on transformation. We build alongside you.
           </p>
         </div>
       </section>
 
-      {/* Studio Model */}
+      {/* Ventures Model */}
       <section className="bg-white py-24 px-6">
         <div className="max-w-[1000px] mx-auto">
-          <h2 className="mb-8">The Studio</h2>
+          <h2 className="mb-8">The Strategy</h2>
           <p className="text-text-gray text-[17px] leading-relaxed mb-12 max-w-3xl">
-            Cambiar Studio is a separate venture entity that incubates companies, takes equity positions, and offers co-investment opportunities to PE and Family Office partners. Each portfolio company is incorporated as a separate Delaware C-Corp for clean governance and QSBS eligibility.
+            Cambiar Ventures is a separate venture entity that incubates companies, takes equity positions, and offers co-investment opportunities to PE and Family Office partners. Each portfolio company is incorporated as a separate Delaware C-Corp for clean governance and QSBS eligibility.
           </p>
 
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-warm-cream rounded-[4px] p-8 border-t-4 border-deep-amber">
               <h3 className="mb-4">Internal Ideas</h3>
               <p className="text-text-gray text-[15px] leading-relaxed">
-                Studio maintains majority ownership. Exact split based on contribution of idea originator. We build what we see missing in the market.
+                Ventures maintains majority ownership. Exact split based on contribution of idea originator. We build what we see missing in the market.
               </p>
             </div>
 
@@ -44,7 +44,7 @@ export function Studio() {
             <div className="bg-warm-cream rounded-[4px] p-8 border-t-4 border-deep-amber">
               <h3 className="mb-4">Co-Investment</h3>
               <p className="text-text-gray text-[15px] leading-relaxed">
-                PE and Family Office clients can invest directly in portfolio companies alongside Studio. Shared upside, aligned incentives.
+                PE and Family Office clients can invest directly in portfolio companies alongside Ventures. Shared upside, aligned incentives.
               </p>
             </div>
           </div>
@@ -54,7 +54,7 @@ export function Studio() {
       {/* Why Co-Invest */}
       <section className="bg-warm-cream py-24 px-6">
         <div className="max-w-[1000px] mx-auto">
-          <h2 className="mb-12 text-center">Why Co-Invest with Cambiar Studio?</h2>
+          <h2 className="mb-12 text-center">Why Co-Invest with Cambiar Ventures?</h2>
 
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white rounded-[4px] p-8 shadow-sm">
@@ -74,7 +74,7 @@ export function Studio() {
             <div className="bg-white rounded-[4px] p-8 shadow-sm">
               <h3 className="mb-4">Proprietary deal flow.</h3>
               <p className="text-text-gray text-[16px] leading-relaxed">
-                Our advisory work gives us visibility into transformation gaps before they become obvious. Studio ventures often emerge from patterns we see working with PE firms and family offices.
+                Our advisory work gives us visibility into transformation gaps before they become obvious. Ventures often emerge from patterns we see working with PE firms and family offices.
               </p>
             </div>
 

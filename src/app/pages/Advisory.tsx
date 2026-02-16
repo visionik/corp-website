@@ -109,7 +109,7 @@ export function Advisory() {
             <div className="bg-white rounded-[4px] p-8 shadow-sm">
               <h4 className="mb-3 text-deep-amber">We put capital where our advice is.</h4>
               <p className="text-text-gray text-[16px] leading-relaxed">
-                Studio opportunities create shared upside beyond fees.
+                Venture opportunities create shared upside beyond fees.
               </p>
             </div>
           </div>

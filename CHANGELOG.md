@@ -8,6 +8,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Added a sixth "Who We Serve" card on the Home page: "Businesses small and large."
 
 ### Changed
+- Rebranded "Studio" to "Ventures" throughout the site:
+  - "The Studio" changed to "The Strategy"
+  - "Cambiar Studio" changed to "Cambiar Ventures"
+  - Updated navigation, footer, and all page content
 - Updated company names in footer: "Cambiar Advisory, LLC" to "Cambiar, LLC" and "Cambiar Studio, LLC" to "Cambiar Ventures, LP".
 - Updated Home page segment copy from "Five interconnected segments" to "Six interconnected segments."
 - Updated references from `cambiar.com` to `cambiar.ai` in docs and site content.

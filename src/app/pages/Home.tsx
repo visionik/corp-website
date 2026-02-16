@@ -6,7 +6,7 @@ export function Home() {
   return (
     <div className="min-h-screen">
       <PageMeta
-        title="Cambiar — AI-Native Advisory & Venture Studio"
+        title="Cambiar — AI-Native Advisory & Ventures"
         description="Advisory at the speed of change. AI transformation consulting, managed development, and venture building for PE firms, family offices, startups, and government."
       />
 
@@ -224,17 +224,17 @@ export function Home() {
         </div>
       </section>
 
-      {/* Cambiar Studio Preview */}
+      {/* Cambiar Ventures Preview */}
       <section className="bg-warm-cream py-24 px-6 border-t border-warm-charcoal/10">
         <div className="max-w-[1200px] mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="mb-6">Cambiar Studio</h2>
+              <h2 className="mb-6">Cambiar Ventures</h2>
               <p className="font-['Inter'] font-medium text-[18px] text-warm-charcoal mb-4 leading-relaxed">
                 We don't just advise on transformation — we build alongside you.
               </p>
               <p className="text-text-gray text-[16px] mb-8 leading-relaxed">
-                Cambiar Studio is a separate venture entity that incubates companies, takes equity positions, 
+                Cambiar Ventures is a separate venture entity that incubates companies, takes equity positions, 
                 and offers co-investment opportunities to PE and Family Office partners. Each portfolio company 
                 is structured as a Delaware C-Corp for clean governance and QSBS eligibility.
               </p>
@@ -242,7 +242,7 @@ export function Home() {
                 to="/studio"
                 className="bg-deep-amber text-white px-7 py-3.5 rounded-[3px] font-['Inter'] font-semibold text-[15px] tracking-[1px] uppercase hover:bg-opacity-90 transition-all duration-200 inline-block"
               >
-                Explore the Studio →
+                Explore Ventures →
               </Link>
             </div>
             <div className="bg-midnight-navy rounded-[4px] p-12 text-warm-cream">

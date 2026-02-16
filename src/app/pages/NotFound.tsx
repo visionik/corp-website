@@ -43,7 +43,7 @@ export function NotFound() {
             </Link>
             <span className="text-text-gray">•</span>
             <Link to="/studio" className="text-deep-amber hover:text-warm-charcoal transition-colors text-[15px]">
-              Studio
+              Ventures
             </Link>
             <span className="text-text-gray">•</span>
             <Link to="/perspectives" className="text-deep-amber hover:text-warm-charcoal transition-colors text-[15px]">

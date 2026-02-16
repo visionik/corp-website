@@ -19,7 +19,7 @@ export function Footer() {
                   CAMBIAR
                 </div>
                 <div className="font-['Inter'] font-normal text-[10px] tracking-[0.5px] uppercase text-muted-gold mt-0.5">
-                  ADVISORY & VENTURE STUDIO
+                  ADVISORY & VENTURES
                 </div>
               </div>
             </div>
@@ -44,7 +44,7 @@ export function Footer() {
                 to="/studio"
                 className="font-['Inter'] text-[15px] text-muted-gold hover:text-warm-cream transition-colors"
               >
-                Studio
+                Ventures
               </Link>
               <Link
                 to="/perspectives"

@@ -23,7 +23,7 @@ export function Navigation() {
   const navLinks = [
     { path: '/about', label: 'About' },
     { path: '/advisory', label: 'Advisory' },
-    { path: '/studio', label: 'Studio' },
+    { path: '/studio', label: 'Ventures' },
     { path: '/perspectives', label: 'Perspectives' },
   ];
 

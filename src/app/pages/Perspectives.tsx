@@ -41,7 +41,7 @@ export function Perspectives() {
       readTime: '7 min read',
     },
     {
-      title: 'Building Portfolio Companies: A Studio Approach',
+      title: 'Building Portfolio Companies: A Ventures Approach',
       author: 'Jonathan Taylor',
       date: 'January 10, 2026',
       readTime: '6 min read',
