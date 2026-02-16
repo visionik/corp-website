@@ -203,7 +203,7 @@ export function Home() {
             <div className="bg-white rounded-[4px] p-8 shadow-sm">
               <h3 className="mb-2">Jonathan Taylor — Co-Founder</h3>
               <p className="font-['Inter'] text-[15px] text-text-gray mb-6 leading-relaxed">
-                7 companies started, 6 sold, 21 acquired. Voxeo (→ Aspect), Tropo (→ Cisco), PhotoDay (→ Serent). NASA SCIFLI.
+                7 companies started, 6 sold, 21 acquired. Voxeo (→ Aspect), Tropo (→ Cisco), PhotoDay (→ Serent). NASA SCIFLI. <a href="https://openclaw.ai" target="_blank" rel="noopener noreferrer" className="text-deep-amber hover:text-warm-charcoal transition-colors">openclaw.ai</a> maintainer.
               </p>
               <Link
                 to="/about"
