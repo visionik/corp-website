@@ -54,12 +54,9 @@ function parseRssFeed(xml: string, feed: BlogFeed): BlogPost[] {
 
 /**
  * Fetch RSS feed via CORS proxy (needed for client-side fetching)
- * In production, consider using a server-side approach or a dedicated proxy
  */
 async function fetchFeed(feed: BlogFeed): Promise<BlogPost[]> {
-  // Use a CORS proxy for client-side fetching
-  // Note: In production, you may want to use your own proxy or server-side fetching
-  const corsProxy = 'https://api.allorigins.win/raw?url=';
+  const corsProxy = 'https://cors.cambiar.ai/?url=';
   const url = `${corsProxy}${encodeURIComponent(feed.feedUrl)}`;
 
   const response = await fetch(url);
