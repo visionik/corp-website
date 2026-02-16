@@ -34,7 +34,7 @@ export function Home() {
 
           {/* Description */}
           <p className="font-['Inter'] text-[16px] text-text-gray mb-8 max-w-2xl mx-auto">
-            Advisory at the speed of light.
+            AI at the speed of light.
           </p>
 
           {/* CTAs */}

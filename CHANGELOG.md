@@ -8,6 +8,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Added a sixth "Who We Serve" card on the Home page: "Businesses small and large."
 
 ### Changed
+- Updated hero tagline from "Advisory at the speed of light" to "AI at the speed of light".
 - Rebranded "Studio" to "Ventures" throughout the site:
   - "The Studio" changed to "The Strategy"
   - "Cambiar Studio" changed to "Cambiar Ventures"
