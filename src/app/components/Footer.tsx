@@ -28,7 +28,7 @@ export function Footer() {
           {/* Navigation Links */}
           <div className="flex justify-center">
             <div className="flex flex-col gap-3">
-              <Link
+            <Link
                 to="/about"
                 className="font-['Inter'] text-[15px] text-muted-gold hover:text-warm-cream transition-colors"
               >
@@ -38,13 +38,19 @@ export function Footer() {
                 to="/advisory"
                 className="font-['Inter'] text-[15px] text-muted-gold hover:text-warm-cream transition-colors"
               >
-                Advisory
+                AI Advisory
+              </Link>
+              <Link
+                to="/AI-developer-outsourcing"
+                className="font-['Inter'] text-[15px] text-muted-gold hover:text-warm-cream transition-colors"
+              >
+                AI Devsourcing
               </Link>
               <Link
                 to="/studio"
                 className="font-['Inter'] text-[15px] text-muted-gold hover:text-warm-cream transition-colors"
               >
-                Ventures
+                AI Ventures
               </Link>
               <Link
                 to="/perspectives"
