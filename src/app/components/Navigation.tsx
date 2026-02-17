@@ -22,8 +22,9 @@ export function Navigation() {
 
   const navLinks = [
     { path: '/about', label: 'About' },
-    { path: '/advisory', label: 'Advisory' },
-    { path: '/studio', label: 'Ventures' },
+    { path: '/advisory', label: 'AI Advisory' },
+    { path: '/AI-developer-outsourcing', label: 'AI Devsourcing' },
+    { path: '/studio', label: 'AI Ventures' },
     { path: '/perspectives', label: 'Perspectives' },
   ];
 
