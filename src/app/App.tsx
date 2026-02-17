@@ -5,6 +5,7 @@ import { ScrollToTop } from './components/ScrollToTop';
 import { Home } from './pages/Home';
 import { About } from './pages/About';
 import { Advisory } from './pages/Advisory';
+import { AIDevsourcing } from './pages/AI-Devsourcing';
 import { Studio } from './pages/Studio';
 import { Perspectives } from './pages/Perspectives';
 import { Contact } from './pages/Contact';
@@ -21,6 +22,7 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/advisory" element={<Advisory />} />
+            <Route path="/AI-developer-outsourcing" element={<AIDevsourcing />} />
             <Route path="/studio" element={<Studio />} />
             <Route path="/perspectives" element={<Perspectives />} />
             <Route path="/contact" element={<Contact />} />
