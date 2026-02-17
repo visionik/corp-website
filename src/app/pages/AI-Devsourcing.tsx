@@ -178,7 +178,7 @@ export function AIDevsourcing() {
               "Traditional outsourcing trades quality for cost. AI without humans produces slop. 
               We've solved for both — engineering that's faster, cheaper, and better."
             </p>
-            <p className="text-muted-gold text-center mt-4 text-[14px]">— Jonathan Taylor, Co-Founder</p>
+<p className="text-muted-gold text-center mt-4 text-[14px]">— Jason Goecke, Co-Founder</p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8 mt-12">
