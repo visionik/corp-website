@@ -4,16 +4,16 @@ export function AIDevsourcing() {
   return (
     <div className="min-h-screen pt-24">
       <PageMeta
-        title="AI Devsourcing — Agentic Engineering Teams | Cambiar"
-        description="AI Developer Agents managed by follow-the-sun Agentic Engineering teams. 2x the quality, half the cost. Spec-driven, test-driven, anti-slop development."
+        title="AI Dev Outsourcing — Agentic Engineering Teams | Cambiar"
+        description="AI Agentic Engineers guided by follow-the-sun human Agentic Engineering Management teams. 2x the quality, half the cost. Spec-driven, test-driven, anti-slop development."
       />
 
       {/* Hero */}
       <section className="bg-warm-cream py-20 px-6">
         <div className="max-w-[1200px] mx-auto text-center">
-          <h1 className="mb-6">AI Devsourcing</h1>
+          <h1 className="mb-6">AI Dev Outsourcing</h1>
           <p className="font-['Inter'] text-[19px] text-text-gray max-w-3xl mx-auto leading-relaxed">
-            AI Developer Agents managed by Cambiar's follow-the-sun Agentic Engineering teams.
+            AI Agentic Engineers guided by Cambiar's follow-the-sun human Agentic Engineering Management teams.
             <span className="block mt-4 font-semibold text-warm-charcoal">2× the quality. ½ the cost.</span>
           </p>
         </div>
@@ -24,7 +24,7 @@ export function AIDevsourcing() {
         <div className="max-w-[1000px] mx-auto">
           <h2 className="mb-8">Follow-the-Sun Engineering</h2>
           <p className="text-text-gray text-[17px] leading-relaxed mb-12 max-w-3xl">
-            Our Agentic Engineering teams span four continents, ensuring your development never stops. Human engineers orchestrate AI agents around the clock — reviewing, refining, and shipping production-ready code while you sleep.
+            Our Agentic Engineering Management teams span four continents, ensuring your development never stops. Human engineers orchestrate AI agents around the clock — reviewing, refining, and shipping production-ready code while you sleep.
           </p>
 
           <div className="grid md:grid-cols-4 gap-6">
@@ -136,7 +136,11 @@ export function AIDevsourcing() {
             </div>
 
             <div className="bg-warm-cream rounded-[4px] p-8 shadow-sm hover:-translate-y-1 hover:shadow-lg transition-all duration-200">
-              <h3 className="mb-3">vContext</h3>
+              <h3 className="mb-3">
+                <a href="https://vbrief.org" target="_blank" rel="noopener noreferrer" className="text-warm-charcoal hover:text-deep-amber transition-colors">
+                  vBRIEF
+                </a>
+              </h3>
               <p className="text-text-gray text-[15px] leading-relaxed mb-3">
                 Evolving standards for agentic coding context. Ensures AI agents have the right information at the right time — no more, no less.
               </p>

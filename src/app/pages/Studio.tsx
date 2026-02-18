@@ -98,7 +98,11 @@ export function Studio() {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-white rounded-[4px] p-8 shadow-sm hover:-translate-y-1 hover:shadow-lg transition-all duration-200">
-              <h3 className="mb-3">vContext</h3>
+              <h3 className="mb-3">
+                <a href="https://vbrief.org" target="_blank" rel="noopener noreferrer" className="text-warm-charcoal hover:text-deep-amber transition-colors">
+                  vBRIEF
+                </a>
+              </h3>
               <p className="text-text-gray text-[15px] leading-relaxed mb-3">
                 Evolving standards at the heart of agentic coding.
               </p>
