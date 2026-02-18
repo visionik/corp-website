@@ -27,11 +27,18 @@ export function AIDevsourcing() {
             Our Agentic Engineering Management teams span four continents, ensuring your development never stops. Human engineers orchestrate AI agents around the clock — reviewing, refining, and shipping production-ready code while you sleep.
           </p>
 
-          <div className="grid md:grid-cols-4 gap-6">
+          <div className="grid md:grid-cols-3 lg:grid-cols-5 gap-6">
             <div className="bg-warm-cream rounded-[4px] p-6 border-t-4 border-deep-amber text-center">
               <h3 className="mb-2 text-[18px]">California</h3>
               <p className="text-text-gray text-[14px] leading-relaxed">
                 Architecture & technical leadership. Client coordination.
+              </p>
+            </div>
+
+            <div className="bg-warm-cream rounded-[4px] p-6 border-t-4 border-deep-amber text-center">
+              <h3 className="mb-2 text-[18px]">Florida</h3>
+              <p className="text-text-gray text-[14px] leading-relaxed">
+                Operations & business development. Eastern timezone coverage.
               </p>
             </div>
 

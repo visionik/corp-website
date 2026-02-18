@@ -59,6 +59,7 @@ export function Advisory() {
                     <span className="bg-white px-3 py-1 rounded">Gamma</span>
                     <span className="bg-white px-3 py-1 rounded">Google</span>
                     <span className="bg-white px-3 py-1 rounded">Granola</span>
+                    <span className="bg-white px-3 py-1 rounded">OpenClaw</span>
                     <span className="bg-white px-3 py-1 rounded">Pine</span>
                     <span className="bg-white px-3 py-1 rounded">Superhuman</span>
                     <span className="bg-white px-3 py-1 rounded">Warp</span>
