@@ -163,7 +163,7 @@ export function About() {
                 Jonathan has been a NASA Langley Research Center Imaging Specialist since August 2022, working with 
                 NASA SCIFLI on ground and airborne scientific imaging missions. He is Managing Partner of Zendicate 
                 Ventures ($500K-$5M investments), Founder of Entrenext Hatchery (incubating AI ventures including{' '}
-                <a href="https://vbrief.org" target="_blank" rel="noopener noreferrer" className="text-deep-amber hover:underline">vBRIEF</a>, Ago, VisionCal, Data.mom, and Concordantly), and Co-Founder of DroneScale.
+                <a href="https://vbrief.org" target="_blank" rel="noopener noreferrer" className="text-deep-amber hover:underline">vBRIEF</a>, Ago, VisionCal, Data.mom, and Concordantly), Co-Founder of DroneScale, and maintainer of OpenClaw.
               </p>
 
               <p>
